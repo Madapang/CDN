@@ -1,2 +1,2 @@
 # CDN
-blog:www.madapang.com
+blog : www.madapang.com
