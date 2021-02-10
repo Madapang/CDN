@@ -1,3 +1,2 @@
-# jsdelivr-CDN
-
-www.madapang.com
+# CDN
+blog:www.madapang.com
